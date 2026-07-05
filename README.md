@@ -9,4 +9,4 @@ Este proyecto desarrolla una solución en Python para gestionar el inventario de
 - Genera un reporte con la información del inventario.
 
 ## Autor
-Alejandra Cervantes
+Alejandra Paola Pacheco Cervantes
